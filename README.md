@@ -2,7 +2,7 @@
 - 👀 I’m interested in Photographic and UI Design
 - 🌱 I’m currently learning Japanese
 - 💞️ I’m looking to collaborate on Mediacorp
-- 📫 How to reach me at Github
+- 📫 Can reach me at Github
 
 <!---
 jackykiu-mcsg/jackykiu-mcsg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
